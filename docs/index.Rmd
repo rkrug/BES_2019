@@ -1,0 +1,25 @@
+---
+title: "MetaData made easy!"
+author: "[Rainer M. Krug<sup>1</sup>](mailto:Rainer.Krug@uzh.ch) & [Owen L. Petchey<sup>1</sup>](mailto:Owen.Petchey@uzh.ch)"
+output: html_document
+---
+
+<p align="left"><sup>1</sup> Department of Evolutionary Biology and Environmental Studies, University of Zürich, Zürich, Switzerland</p>
+
+[![DOI](https://zenodo.org/badge/206788826.svg)](https://zenodo.org/badge/latestdoi/206788826)
+
+## Abstract
+
+With an increasing call for FAIR data management, metadata, and it's quality, plays an ever increasing role. Nevertheless, providing metadata is a task, not easily accomplished. One of the reason for this is doubtless the cumbersome way of entering metadata in the formats or webforms needed by the repositories. In addition, there is no quality control of the entered metadata. Last but not least, the metadata schemes used by the repositories are either restricted to bibliometric metadata (e,g, general repositories) or are using metadata schemes which have to cover a whole range of different data (e.g. EML or Darwin Core). 
+
+I would like to present an approach which uses domain specific metadata schemes to overcome these problems, by developing these schemes together with scientists of the specific domain and provide easy to use tools which they already know to fill in the metadata identified as being relevant in their domain.
+
+## Presentation
+
+<!-- <a href="./MetadataCanBeEasy_RMKrug.html" target="_blank">Metadata can be easy!</a> -->
+
+<!-- [Download R Code for Live Demo Develop New Scheme](./LiveDemo_NewScheme.R) -->
+
+<!-- [Download R Code for Live Demo Howto Use a Scheme](./LiveDemo_UseScheme.R) -->
+
+<!-- <a href="https://github.com/rkrug/GFO_2019" target="_blank">Github Repo</a> -->
