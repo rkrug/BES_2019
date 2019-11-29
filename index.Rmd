@@ -6,7 +6,7 @@ output: html_document
 
 <p align="left"><sup>1</sup> Department of Evolutionary Biology and Environmental Studies, University of Zürich, Zürich, Switzerland</p>
 
-[![DOI](https://zenodo.org/badge/DOI/ToBeAdded.svg)](https://doi.org/ToBeAdded)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3557284.svg)](https://doi.org/10.5281/zenodo.3557284)
 
 ## Abstract
 
@@ -16,10 +16,7 @@ I will present an approach which uses domain specific metadata schemes to overco
 
 ## Presentation
 
-<!-- <a href="./MetadataCanBeEasy_RMKrug.html" target="_blank">Metadata can be easy!</a> -->
+<a href="./RainerMKrug_MetaDataMadeEasy.html" target="_blank">Metadata can be easy!</a>
 
-<!-- [Download R Code for Live Demo Develop New Scheme](./LiveDemo_NewScheme.R) -->
-
-<!-- [Download R Code for Live Demo Howto Use a Scheme](./LiveDemo_UseScheme.R) -->
 
 <!-- <a href="https://github.com/rkrug/GFO_2019" target="_blank">Github Repo</a> -->
